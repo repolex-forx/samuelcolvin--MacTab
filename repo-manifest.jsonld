@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/MacTab/commit/e03917f2228bb14e4feaf48a32a7b6a180d49544",
       "git:hexsha": "e03917f2228bb14e4feaf48a32a7b6a180d49544",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T07:46:53.986795+00:00"
     }
   ]
 }
