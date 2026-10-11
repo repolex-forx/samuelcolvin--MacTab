@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "MacTab",
+  "versions": [
+    {
+      "commit": "e03917f2228bb14e4feaf48a32a7b6a180d49544",
+      "parsed_at": "2026-10-11T07:44:56.838618+00:00",
+      "filetree": "filetree/e03917f2228bb14e4feaf48a32a7b6a180d49544.nq.gz",
+      "blobs": [
+        "blob/a2172735135f848a6b43ae6e0a146fd80e751056.nq.gz",
+        "blob/ae83958f2ff0fdd8e4088284e6804c94a1f6c82a.nq.gz",
+        "blob/a59935ba9cf28f4db6001b81e1e95c0905e1a616.nq.gz",
+        "blob/19a33d0bf77d8855c48a2f02517370a039846d72.nq.gz",
+        "blob/f6ee5f5e207e8f5221f8f6b3e478ba92a1201c50.nq.gz",
+        "blob/033f9fb6bb794a0f53825f8c4686ea2ac6082b29.nq.gz",
+        "blob/0c844c8c8bc1bb63f4dc45c9520738097f5ad606.nq.gz",
+        "blob/5e9aadbd22df623fd7f02b439bc8775004b2645c.nq.gz",
+        "blob/279ce9cba705d19a8de620bad458e6dcf4dfbbb7.nq.gz",
+        "blob/97412be1784ab46bda4c07fd81469ec2a5e02049.nq.gz",
+        "blob/a45f34040e40ae657bea697654391ea4396ed9b5.nq.gz",
+        "blob/0379f2487fb426201efa78e9950f5bbfab2920ab.nq.gz",
+        "blob/0702bbcfc0e8475ce09c6136224771530a2f8b6c.nq.gz",
+        "blob/de9730c5e9747be215921cae70ef7d5c7b0cc147.nq.gz",
+        "blob/d8965f262757e4b6e6f07b3e0527eba9bac2adb8.nq.gz",
+        "blob/8da6348abf32be6364a569f1b45af9b602bdcc33.nq.gz",
+        "blob/b78f64f66d5a2ce4d2b304d26093796cdb4c25c2.nq.gz",
+        "blob/f36fa0a602d97cdc5cc021b4d636801cafc7aa2b.nq.gz",
+        "blob/310f900092fd8491bf06f6f214dde3f93159b00d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

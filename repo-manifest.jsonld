@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/samuelcolvin/MacTab",
+  "@type": "gh:Repository",
+  "gh:name": "MacTab",
+  "gh:owner": "samuelcolvin",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/samuelcolvin/MacTab/commit/e03917f2228bb14e4feaf48a32a7b6a180d49544",
+      "git:hexsha": "e03917f2228bb14e4feaf48a32a7b6a180d49544",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
